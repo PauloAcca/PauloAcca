@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bdfRmvBmNziTkzaH5ZRJE7LRWBJohUKt/view?usp=drive_link](https://drive.google.com/file/d/1bdfRmvBmNziTkzaH5ZRJE7LRWBJohUKt/view?usp=drive_link)
 
+- 👨‍💻 My Portfolio https://github.com/PauloAcca/Portfolio-PauloAccardo
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paulo accardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo accardo" height="30" width="40" /></a>
