@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bdfRmvBmNziTkzaH5ZRJE7LRWBJohUKt/view?usp=drive_link](https://drive.google.com/file/d/1bdfRmvBmNziTkzaH5ZRJE7LRWBJohUKt/view?usp=drive_link)
 
-- 👨‍💻 My Portfolio https://github.com/PauloAcca/Portfolio-PauloAccardo
+- 👨‍💻 My Portfolio [https://github.com/PauloAcca/Portfolio-PauloAccardo](https://pauloacca.github.io/Portfolio-PauloAccardo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
